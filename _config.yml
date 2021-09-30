@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: MixMarvel Foundation
+title: Rangers Protocol Foundation
 
 # Short description of your site
-description: A display portal of MixMarvel Foundation
+description: A display portal of Rangers Protocol Foundation
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,11 +20,11 @@ description: A display portal of MixMarvel Foundation
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://rangersprotocol.org"
-  More infornmation:
-    - Offical website: "http://www.rangersprotocol.com"
-    - Try HyperDragons: "https://hyperdragons.alfakingdom.com/"
-  Whitepaper: "https://www.lanzous.com/mixmarvelwhitepaper"
+  White Paper: "https://www.rangersprotocol.com/pdf/RangersProtocolWhitepaper.pdf"
+  Resources:
+    - Website: "http://www.rangersprotocol.com/"
+    - Docs: "https://rangersprotocol.gitbook.io/rangersprotocol/"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
