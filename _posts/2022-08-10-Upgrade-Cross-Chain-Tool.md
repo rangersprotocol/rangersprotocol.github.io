@@ -4,10 +4,26 @@ title: Rangers Protocol Upgrades Its Cross-Chain Tool
 subtitle: Global Expansion
 ---
 
-Rangers Protocol Foundation reported that in July 2022, Rangers Protocol, the backbone of a Web3 engine, released an upgrade for one of its core technologies, Rangers Bridge cross-chain tool.
+Rangers Protocol Foundation states that reported in September 2022, based on the commitments to investors, advisors, markets, teams, communities, etc., the RPG contract admin on the ETH and BSC networks has been updated to Multi-signature addresses. The details are as follows:
 
-On July 2022, Rangers Protocol proudly announcesed an upgration for one of its core technologies, Rangers Bridge cross-chain tool. Rangers Bridge is a tool of Rangers Connector, an infrastructure aspiring to be the best heterogeneous cross-chain solution leveraging the relay chain technology. Rangers Connector removes the cross-chain communication barriers by supporting both FT and NFTs from an infrastructure level.
+Ethereum:
+https://gnosis-safe.io/app/eth:0x4844a028475836031Ad329FfCfacb7f38841d44b/settings/owners
 
-The Rangers Protocol Foundation very much agrees with Rangers Protocol's improvement of technology.  
+Required Confirmations
+Any transaction requires the confirmation of:2 out of 3 owners
 
-The Rangers Protocol Foundation has an 4,000 RPG backup funding support for the development of global community.  The funding includes activity costs to market the program, event costs, KOL rewards and other administrative costs. 
+Owners role
+Rangers Core Team
+Rangers Liquid Team
+Rangers Growth Team
+
+BNB Smart Chain:
+https://gnosis-safe.io/app/bnb:0x64321C40ca697382A8D54D0C423a7e697c6D151A/settings/owners
+
+Required Confirmations
+Any transaction requires the confirmation of:2 out of 3 owners
+
+Owners role
+Rangers Core Team
+Rangers Liquid Team
+Rangers Growth Team
