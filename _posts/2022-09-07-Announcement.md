@@ -5,8 +5,6 @@ subtitle: Administration
 
 ---
 
-
-
 Rangers Protocol Foundation states that reported in September 2022, based on the commitments to investors, advisors, markets, teams, communities, etc., the RPG contract admin on the ETH and BSC networks has been updated to Multi-signature addresses. The details are as follows:
 
 Ethereum:
